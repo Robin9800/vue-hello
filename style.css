@@ -1,0 +1,15 @@
+#root{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#root h1{
+    text-align: center;
+}
+#root img{
+    margin: 0 auto;
+
+}
+.color{
+    color: red;
+}
